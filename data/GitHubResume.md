@@ -1,6 +1,6 @@
 
-
-
+* Snehalreet Kaur-[http://resume.github.io/?snehal199](http://resume.github.io/?snehal199)
+* Avneesh Kumar-[http://resume.github.io/?Cybertron-Avneesh](http://resume.github.io/?Cybertron-Avneesh)
 * DummyContestantName - [Link to resume](link to resume)
 * Varun Bhardwaj - [https://resume.github.io/?starboi02](https://resume.github.io/?starboi02)
 * Arpit Agarwal- [https://resume.github.io/?aarpit1010](https://resume.github.io/?aarpit1010)
@@ -24,11 +24,9 @@
 * Cheena - [https://resume.github.io/?griffy06](https://resume.github.io/?griffy06)
 * Ayush Tiwari - [https://resume.github.io/?blaze-assault](https://resume.github.io/?blaze-assault)
 * Aaryan Bhardwaj - [https://resume.github.io/?uglyprincess](https://resume.github.io/?uglyprincess)
-
 * Amit jain- [https://resume.github.io/?amit2223](https://resume.github.io/?amit2223)
 * Manish Kumar - [https://resume.github.io/?manish-kumar-2000](https://resume.github.io/?manish-kumar-2000)
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
-
 * Ekansh Nishad - [https://resume.github.io/?EkanshNishad](https://resume.github.io/?EkanshNishad)
 * Kaushal Sahu - [https://resume.github.io/?KaushalSahu](https://resume.github.io/?KaushalSahu)
 * Manish Kumar - [https://resume.github.io/?manish-kumar-2000](https://resume.github.io/?manish-kumar-2000)
@@ -36,6 +34,3 @@
 * Sanskar Patro - [https://resume.github.io/?sanskar-p](https://resume.github.io/?sanskar-p)
 * Garvit Chittora - [https://resume.github.io/?garvitchittora](https://resume.github.io/?garvitchittora)
 * Muskan Deep Kaur- [https://resume.github.io/?mendelevium28] (https://resume.github.io/?mendelevium28)
-
-
-
