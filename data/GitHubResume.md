@@ -32,4 +32,4 @@
 * Riya Jawandhiya - [https://resume.github.io/?riyaJ2311][https://resume.github.io/?riyaJ2311]
 * Sanskar Patro - [https://resume.github.io/?sanskar-p](https://resume.github.io/?sanskar-p)
 * Garvit Chittora - [https://resume.github.io/?garvitchittora](https://resume.github.io/?garvitchittora)
-* Muskan Deep Kaur- [https://resume.github.io/?mendelevium28] (https://resume.github.io/?mendelevium28)
+* Muskan Deep Kaur- [https://resume.github.io/?mendelevium28](https://resume.github.io/?mendelevium28)
